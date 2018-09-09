@@ -4,6 +4,6 @@ public interface bike {
 	
 	public void biker();
 	
-	//bike wale bakchod
+	//bike 
 
 }
